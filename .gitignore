@@ -1,0 +1,22 @@
+# Hệ điều hành (Windows/macOS)
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Trình soạn thảo (VS Code, IntelliJ, PyCharm)
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Các thư mục phụ thuộc và môi trường (Thường gặp trong AI/Web)
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.env
+dist/
+build/
+
+# OneDrive/Cloud rác
+*.tmp
